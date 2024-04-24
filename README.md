@@ -7,7 +7,7 @@
 
 👇Look at my projects:👇
 
-💻 A simple project with tests on selenide: https://github.com/bustamax/Selenium ➿
+💻 A project with tests on selenide: https://github.com/bustamax/Selenium ➿
 
 👍 Rest assured + Mock-server: https://github.com/bustamax/Rest 👍
 
