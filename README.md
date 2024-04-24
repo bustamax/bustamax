@@ -1,4 +1,18 @@
 ### Hi there 👋
+🌱 I’m currently learning QA & QA Automation
+
+🔭 I’m working in IT company
+
+📫 How to reach me: https://t.me/maksimurr
+
+👇Look at my projects:👇
+
+💻 A simple project with tests on selenide: https://github.com/bustamax/Selenium ➿
+
+👍 Rest assured + Mock-server: https://github.com/bustamax/Rest 👍
+
+☝️Look at my projects:☝️
+
 
 <!--
 **bustamax/bustamax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
